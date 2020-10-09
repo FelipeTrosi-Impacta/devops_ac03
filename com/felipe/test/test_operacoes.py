@@ -1,3 +1,6 @@
+import pytest
+from com.felipe.operacoes import *
+
 def func(x):
     return x + 1
 
